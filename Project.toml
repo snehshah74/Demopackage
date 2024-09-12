@@ -1,0 +1,4 @@
+name = "Demopackage"
+uuid = "2e78b04b-729a-482b-9e10-3edab69283ec"
+authors = ["Sneh Shah <snehshah74@gmail.com>"]
+version = "0.1.0"
